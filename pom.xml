@@ -24,6 +24,7 @@
         <module>api-gateway</module>
         <module>framework</module>
         <module>order-model</module>
+        <module>order-orchestrator</module>
     </modules>
 
     <dependencies>
